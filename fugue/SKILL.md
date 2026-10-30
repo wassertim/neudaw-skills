@@ -39,7 +39,7 @@ Plan
 
 Stretto and ending
 
-- Use a pairing `analyze_stretto` found without strong-beat clashes.
+- Use a pairing `analyze_stretto` marks as fitting: no strong-beat clash and no parallel fifths or octaves between the entries.
 - Coda: a pedal point, a last statement of the subject's head, a ritardando over the last bars with `add_tempo_point` and `set_tempo_point_ramp`, then the final chord.
 
 Checking
